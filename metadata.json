@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Générateur de Styleguide UI",
+  "description": "Une IA qui génère un système de design UI complet (couleurs, typographie, composants) pour n'importe quelle idée de projet et permet le téléchargement en Markdown.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
